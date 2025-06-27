@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to the organizers of the ByBorg Hackathon 2025 for providing the opportunity to create this project.
+Special thanks to the organizers of the [ByBorg Hackathon 2025](https://byborg.ai/) for providing the opportunity to create this project.
 
 ## Additional Resources
 
