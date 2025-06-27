@@ -18,7 +18,6 @@ In Texture Adventure:
 Texture Adventure was created with several goals in mind:
 - **Scene Understanding**: Improve players' ability to recognize and understand visual scenes with limited information
 - **Educational Value**: Teach players about objects, their properties, and relationships in a fun, interactive way
-- **Accessibility**: Develop a game that can be enjoyed by everyone, including those with visual impairments
 
 ## Demo
 
