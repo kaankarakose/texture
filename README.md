@@ -23,9 +23,7 @@ Texture Adventure was created with several goals in mind:
 
 [![Texture Demo Video](./media/thumbnails/texture-thumbnail.jpg)](./media/thumbnails/Texture-demo.mov)
 
-*Click the image above to view the demo video*
-
-Alternatively, you can [download the demo video directly](./media/thumbnails/Texture-demo.mov).
+[download the demo video directly](./media/thumbnails/Texture-demo.mov).
 
 ## Technologies Used
 
