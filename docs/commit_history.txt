@@ -1,0 +1,51 @@
+19f35ec - KK, 4 months ago : Fix media paths in README.md
+3ff9646 - KK, 4 months ago : Add media directory with demo video and thumbnail
+0676088 - KK, 4 months ago : Update README with project description and video thumbnail
+f3ec2e2 - Imre Molnár, 4 months ago : Merge pull request #5 from tamastheactual/frontend
+2ccdce4 - Imre Molnar, 4 months ago : Fix scrolling on the chat side
+c80cc5a - Imre Molnar, 4 months ago : Final polishing on ui
+267566a - Imre Molnar, 4 months ago : Add thinking animation, and final polishing
+ad410e2 - kaankarakose, 4 months ago : Merge branch 'main' of https://github.com/tamastheactual/Press-F-to-Backprop
+b731dee - kaankarakose, 4 months ago : deleting unused folders
+d42025a - kaankarakose, 4 months ago : add docker commands to llm_server
+2b27c8f - Imre Molnar, 4 months ago : Adding bbox removel on correct user prompt
+580250e - Zsolt Csibi, 4 months ago : Merge pull request #4 from tamastheactual/llm
+c7d5c6c - Zsolt Csibi, 4 months ago : Merge pull request #3 from tamastheactual/main
+d3242f1 - kaankarakose, 4 months ago : Dockerfile fix
+74d435a - kaankarakose, 4 months ago : finalish commit
+3a28bfc - Imre Molnar, 4 months ago : Add masking prototype
+8a98c16 - kaankarakose, 4 months ago : before adding object details
+26ba5b8 - Imre Molnar, 4 months ago : Add character generation and image enumeration
+c37d4e7 - kaankarakose, 4 months ago : comfy avatar
+d550cc6 - Imre Molnar, 4 months ago : Add minimal character generation page
+fb7bc4b - Imre Molnar, 4 months ago : Add redirection and timer for the game
+7571e54 - kaankarakose, 4 months ago : Inpainting pipelin code
+f2305c0 - kaankarakose, 4 months ago : comfy ui
+c0bb138 - kaankarakose, 4 months ago : comfy
+244a433 - naakkarakose@gmail.com, 4 months ago : comfyUI service
+06e67a5 - tamastheactual, 4 months ago : Merge branch 'main' of https://github.com/tamastheactual/Press-F-to-Backprop
+fe0632f - tamastheactual, 4 months ago : Add integration with the chat API, scrolling to new text
+3649dd3 - tamastheactual, 4 months ago : llm services- chat services
+ae612dd - tamastheactual, 4 months ago : server fix
+c2da437 - Imre Molnar, 4 months ago : Add message to message history
+fd8763f - Imre Molnar, 4 months ago : Add new game page, finalized appearance
+fc069ca - Zsolt Csibi, 4 months ago : Merge pull request #2 from tamastheactual/llm
+0efd542 - tamastheactual, 4 months ago : Refactor folders
+386caff - tamastheactual, 4 months ago : Merge remote-tracking branch 'origin/main' into llm
+d4459f0 - tamastheactual, 4 months ago : fixing naming issues
+eb30d8b - Imre Molnar, 4 months ago : Introduce multipage approach for svelte
+aa89aa5 - Zsolt Csibi, 4 months ago : Merge pull request #1 from tamastheactual/llm
+4423216 - tamastheactual, 4 months ago : first initial commit with flask api and docker file
+f6b16ad - Imre Molnar, 4 months ago : Finalize main page
+bddeff9 - Imre Molnar, 4 months ago : Fix content appearance
+e6cf2b8 - Imre Molnar, 4 months ago : Main page basic content added
+fbc80b3 - tamastheactual, 4 months ago : svelte something
+620c0c1 - tamastheactual, 4 months ago : django reqs
+ac2f2cd - tamastheactual, 4 months ago : Merge branch 'main' of https://github.com/tamastheactual/Press-F-to-Backprop
+2ec1d92 - tamastheactual, 4 months ago : changing main folder name
+d77b126 - root, 4 months ago : naming
+8099776 - root, 4 months ago : \Merge branch 'main' of https://github.com/tamastheactual/Press-F-to-Backprop
+04447d8 - tamastheactual, 4 months ago : first initial commit
+2bf73ca - tamastheactual, 4 months ago : Test Commit Zsolt
+0b99051 - root, 4 months ago : test
+c822ac1 - Tamás Takács, 4 months ago : Initial commit
