@@ -68,7 +68,7 @@ Texture was created by Press F to Backprop during the ByBorg Hackathon 2025.
 - [Takacs Tamas](https://github.com/tamastheactual)
 
 
-Special thanks to all team members for their hard work and dedication to this project.
+Special thanks to all team members for their hard work and dedication to this fun project.
 
 ## License
 
