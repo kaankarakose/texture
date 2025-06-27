@@ -2,7 +2,7 @@
 
 ## Overview
 
-Texture Adventure is an interactive web-based game developed during the ByBorg Hackathon 2025 in just 24 hours. The game combines visual puzzles with conversational AI to create an engaging educational experience. Thanks to our team member.
+Texture Adventure is an interactive web-based game developed during the ByBorg Hackathon 2025 in just 24 hours. The game combines visual puzzles with conversational AI to create an engaging educational experience.
 
 ## Game Concept
 
