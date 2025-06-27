@@ -50,7 +50,7 @@ npm start
 ## How to Play
 
 1. Open the game in your web browser 
-2. First describe your avatar and it will create a fully functional avatar for you
+2. First describe your avatar and it will create a fully controllable avatar for you
 3. Observe the partially hidden image on the left side
 4. Read the chatbot's question about the hidden object
 5. Type your guess in the chat interface
